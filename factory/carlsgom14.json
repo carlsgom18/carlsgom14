@@ -1,0 +1,15 @@
+{
+	"name": "carlsgom14",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8fc15b96-4fde-48ee-a4c8-8cc1fcb52b6f",
+		"tenantId": "a9e17f9e-90be-41d0-84eb-6a48ebe9fec0"
+	}
+}
